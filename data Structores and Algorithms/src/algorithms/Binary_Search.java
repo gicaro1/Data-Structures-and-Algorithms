@@ -11,7 +11,7 @@ public class Binary_Search {
 
 	public static int binaryMethod(int[] a, int x) {
 
-		int r = a.length - 1; // --> last position of the array 6th in case will be number '10'
+		int r = a.length  - 1; // --> last position of the array 6th in case will be number '10'
 
 		int p = 0; // --> first positon of the array in this case will be number '2'
 
