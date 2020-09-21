@@ -12,6 +12,8 @@ public class BST_implementation {
 		if (root==null) {
 			root = newNode;
 			
+			
+			
 		}else {
 			Node current = root; // first loop value is 23
 			Node parent;
